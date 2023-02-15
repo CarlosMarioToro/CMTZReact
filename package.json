@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    "url": "git+https://github.com/CarlosMarioToro/CMTZReact.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
+    "url": "https://github.com/CarlosMarioToro/CMTZReact.git/issues"
   },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+  "homepage": "https://github.com/CarlosMarioToro/CMTZReact.git#readme"
 }
